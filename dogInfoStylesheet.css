@@ -1,12 +1,41 @@
 @font-face{
     font-family: kanitLight;
-    src: url(/assignmentSE/font/Kanit-Light.ttf);
+    src: url(/assignmentSE/font/Kanit/Kanit-Light.ttf);
 }
 @font-face{
     font-family: kanitMedium;
-    src: url(/assignmentSE/font/Kanit-Medium.ttf)
+    src: url(/assignmentSE/font/Kanit/Kanit-Medium.ttf)
 }
 
+#menu{
+    color: black;
+    font-size: 25px;
+}
+
+#brandMenu{
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    font-family: 'kanitMedium', Kanit ,sans-serif;
+}
+#shopMenu{
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    font-family: 'kanitLight', Kanit ,sans-serif;
+}
+#foundMenu{
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    font-family: 'kanitLight', Kanit ,sans-serif;
+}
 
 nav{
     background-color: #FFE32E;
