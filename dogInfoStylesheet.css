@@ -1,0 +1,17 @@
+@font-face{
+    font-family: kanitLight;
+    src: url(/assignmentSE/font/Kanit-Light.ttf);
+}
+@font-face{
+    font-family: kanitMedium;
+    src: url(/assignmentSE/font/Kanit-Medium.ttf)
+}
+
+
+nav{
+    background-color: #FFE32E;
+    height: 82px;
+}
+#divUnderNav{
+    margin-top:80px;
+}
