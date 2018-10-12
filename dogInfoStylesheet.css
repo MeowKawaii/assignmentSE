@@ -6,7 +6,6 @@
     font-family: kanitMedium;
     src: url(/assignmentSE/font/Kanit/Kanit-Medium.ttf)
 }
-
 #menu{
     color: black;
     font-size: 25px;
@@ -19,6 +18,8 @@
     padding-right: 20px;
     cursor: pointer;
     font-family: 'kanitMedium', Kanit ,sans-serif;
+    color: black;
+    font-size: 25px;
 }
 #shopMenu{
     padding-top: 8px;
