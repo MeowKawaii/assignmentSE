@@ -10,37 +10,49 @@
     color: black;
     font-size: 25px;
 }
+#person{ 
+    float: left;
+}
+#rightSide{
+    background-color: #000000;
+    opacity: 0.06;
+
+}
+
+#leftSide{
+        margin-top: 45.33px;
+}
 
 #brandMenu{
-    padding-top: 8px;
+    padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
     cursor: pointer;
     font-family: 'kanitMedium', Kanit ,sans-serif;
     color: black;
     font-size: 25px;
 }
 #shopMenu{
-    padding-top: 8px;
+    padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
     cursor: pointer;
     font-family: 'kanitLight', Kanit ,sans-serif;
 }
 #foundMenu{
-    padding-top: 8px;
+    padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
     cursor: pointer;
     font-family: 'kanitLight', Kanit ,sans-serif;
 }
 
 nav{
     background-color: #FFE32E;
-    height: 82px;
+    /* height: 82px; */
 }
 #divUnderNav{
     margin-top:80px;
